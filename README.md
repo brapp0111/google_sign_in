@@ -12,7 +12,9 @@ Add `google_sign_in` to your Rails app’s Gemfile and run `bundle install`:
 gem 'google_sign_in'
 ```
 
-Google Sign-In for Rails requires Rails 5.2 or newer.
+## Requirments
+
+Google Sign-In for Rails requires **Rails 5.2** or newer.
 
 
 ## Configuration
